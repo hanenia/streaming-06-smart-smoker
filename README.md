@@ -50,4 +50,4 @@ RabbitMQ server running
 pika installed in your active environment
 
 ## Screenshot
-![sceeenshot](image/Screenshot 2024-06-07 212707.png)
+![sceeenshot](image/Screenshot%202024-06-07%20212707.png)
